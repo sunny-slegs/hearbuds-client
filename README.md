@@ -7,7 +7,7 @@ HearBuds allows users to find concerts in their area and find someone to go with
 _____________________
 ## Link to the live version
  -[live app](https://hearbuds-client.firebaseapp.com/)
- -[server repo](https://github.com/thinkful-ei21/hearbuds-server)
+ -[server repo](https://github.com/sunny-slegs/hearbuds-server)
 
  ____________________
  ## Screenshots
@@ -47,7 +47,7 @@ _____________________
 
 ## Dev setup
 
-* Clone both repos (this one and the [Server Repo](https://github.com/thinkful-ei21/hearbuds-server))
+* Clone both repos (this one and the [Server Repo](https://github.com/sunny-slegs/hearbuds-server))
 
 * Once you have them cloned run `npm install` on both in order to get all dependancies.
 
